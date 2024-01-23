@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web development and taking courses related to software engineering. 
 - 👯 I’m looking to collaborate on versatile projects such as related to Tech, AI, ML, UI/UX designs, stocks or finance. 
 - 🤔 I’m looking for help with more connections with the hustlers who are into startups or co- op opportunities for myself.
-- 📫 Feel free to reach me at my email: vanshikasingla7@icloud.com
+- 📫 Feel free to reach me at my email: vanshikasingla09@gmail.com
 - ⚡ Fun fact: I am always curious about different practices of medidation, sprituality and likes reading ancient spritual texts. 
 
 <!--
