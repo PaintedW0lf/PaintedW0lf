@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
+![Alt text](![image](https://github.com/user-attachments/assets/9fb11cfe-e969-4d6f-ac57-0208cdd36af6))
 <h3 align="center">I’m currently pursuing my BSC in Computer and Data Science. Discovering stories from raw data excites me!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paintedw0lf" alt="paintedw0lf" /></a> </p>
