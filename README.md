@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
-![Alt text](![image](https://github.com/user-attachments/assets/9fb11cfe-e969-4d6f-ac57-0208cdd36af6))
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+<br><br>
 <h3 align="center">I’m currently pursuing my BSC in Computer and Data Science. Discovering stories from raw data excites me!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paintedw0lf" alt="paintedw0lf" /></a> </p>
