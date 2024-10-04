@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="500">
 <br><br>
 <h3 align="center">I’m currently pursuing my BSC in Computer and Data Science. Discovering stories from raw data excites me!</h3>
 
