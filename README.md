@@ -16,9 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paintedw0lf" alt="paintedw0lf" /></a> </p>
 
-- 🔭 I’m currently working on [a full stack development of an e learning platform and am also training a AI bot for games of amazon.](https://github.com/RajveerSodhi/EduPool)
 
-- 🌱 I’m currently learning **Flask and i am taking courses on Analysis of algorithm, Software engineering, Artificial Intelligence and Project management**
 
 - 👯 I’m looking to collaborate on **on versatile projects such as related to software development, AI, ML, UI/UX designs, stocks or finance.**
 
